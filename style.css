@@ -1,0 +1,63 @@
+
+h2 {
+    font-size: 40px ;
+    text-align:left;
+    
+}
+
+h3{
+    color: #3498DB;
+    text-align: right;
+    font-size: 15px;
+    
+}
+
+body{
+    font-family:'Lato', sans-serif;;
+    border: 15px solid #BDC3C7;
+    text-align: center;
+    margin-left: 100px; 
+    margin-right: 100px;
+    padding: 10px;
+    border-radius: 25px;
+    margin: 100px auto: 
+}
+
+#divone {
+    border-bottom: solid 15px #BDC3C7;
+    margin-left: 20px auto  ;
+}
+
+#one {
+    border-bottom: solid 5px #BDC3C7;
+    text-align: right;
+}
+
+#two {
+    border-bottom: solid 5px #BDC3C7;
+    text-align: center;
+}
+
+#three {
+    text-align: right;
+    
+}
+
+#four {
+    border-bottom: solid 5px #BDC3C7;
+    text-align: right;
+}
+
+#five {
+    border-bottom: solid 5px #BDC3C7;
+    text-align: center;
+}
+
+#six  {
+    text-align: right;
+
+}
+
+h2:hover {
+    letter-spacing: 30px;
+}
